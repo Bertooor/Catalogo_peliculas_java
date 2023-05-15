@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/datos/IAccesoDatos.java</file>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/excepciones/AccesoDatosExcp.java</file>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/excepciones/EscrituraDatosExcp.java</file>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/excepciones/LecturaDatosExcp.java</file>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/dominio/Pelicula.java</file>
+            <file>file:/home/alberto/NetBeansProjects/Catalogo_peliculas_java/src/com/alber/peliculas/datos/AccesoDatosImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
